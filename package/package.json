@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu-controller",
+  "version": "1.0.0",
+  "description": "control drop down menu by js using add/remove show class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim-saou/myFirst_npm_package.git"
+  },
+  "author": "Abdelkrim Saouchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karim-saou/myFirst_npm_package/issues"
+  },
+  "homepage": "https://github.com/karim-saou/myFirst_npm_package#readme"
+}
